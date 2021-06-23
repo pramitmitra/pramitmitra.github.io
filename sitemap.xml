@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pramitmitra.github.io/projects/creations/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/projects/contributions/</loc>
+    <priority>0.5</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://pramitmitra.github.io/publications/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://pramitmitra.github.io/projects/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/python/</loc>
+    <lastmod>2020-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+ 
+  <url>
+    <loc>https://pramitmitra.github.io/tags/tensorflow/</loc>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/</loc>
+    <lastmod>2019-03-04T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/ajax/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/css3/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/django/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/html/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pramitmitra.github.io/tags/pandas/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
